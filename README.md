@@ -11,8 +11,7 @@ The project has been implemented using the R language. R provides a robust set o
 The dependencies for this project can be installed by running the code.
 
 <h3> Matching Approach </h3>
-The project used two different approaches to determine the similarity between the symptoms and clinical text columns. The first approach which is basic involved computing the word frequency and comparing it to the symptoms column, while the second approach used the levenshtein algorithm to compute the similarity between the two columns.<br>
-The second approach utilized the levenshtein algorithm to determine the similarity, considering rows that had at least a 40% match with the symptoms.
+The project used two different approaches to determine the similarity between the symptoms and clinical text columns. The first approach which is basic involved computing the word frequency and comparing it to the symptoms column, while the second approach used the levenshtein algorithm to compute the similarity between the two columns. The second approach utilized the levenshtein algorithm to determine the similarity, considering rows that had at least a 40% match with the symptoms.
 
 <h3>Contributing</h3>
 Contributions to the VAERS Clinical Text Analysis project are welcome. If you'd like to contribute, please follow these guidelines:<br><br>
