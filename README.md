@@ -15,10 +15,10 @@ The project used two different approaches to determine the similarity between th
 The second approach utilized the levenshtein algorithm to determine the similarity, considering rows that had at least a 40% match with the symptoms.
 
 <h3>Contributing</h3>
-Contributions to the VAERS Clinical Text Analysis project are welcome. If you'd like to contribute, please follow these guidelines:
+Contributions to the VAERS Clinical Text Analysis project are welcome. If you'd like to contribute, please follow these guidelines:<br><br>
 
-Fork the repository and create a new branch for your contribution.
-Make your changes and ensure that the code adheres to the project's style guidelines.
-Write clear and concise commit messages.
-Submit a pull request, describing the changes you've made and the rationale behind them.
+1. Fork the repository and create a new branch for your contribution.<br>
+2. Make your changes and ensure that the code adheres to the project's style guidelines.<br>
+3. Write clear and concise commit messages.<br>
+4. Submit a pull request, describing the changes you've made and the rationale behind them.
 
