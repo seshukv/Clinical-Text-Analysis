@@ -3,6 +3,8 @@ The VAERS Clinical Text Analysis project aims to leverage data wrangling, data c
 
 <h3>Data Sources</h3>
 The data for this project can be downloaded from https://langara-my.sharepoint.com/:f:/r/personal/qnguyen_langara_ca/Documents/VAERS?csf=1&web=1&e=IAsFS3.
+<br>
+Read about VAERS from the documentations attached to understand the data better
 
 <h3>Technologies Used</h3>
 The project has been implemented using the R language. R provides a robust set of tools and packages for data manipulation, text analysis, and visualization, making it suitable for this analysis.
